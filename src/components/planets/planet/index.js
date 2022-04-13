@@ -27,11 +27,11 @@ const Planet = (props) => {
                 {satellites}
             </ul> */}
             {/* renderizando varios elementos no JSX */}
-            <ul>
+            {/* <ul>
                 {['a','b','c','d','e'].map((n)=>
                 <li>satélite {n}</li>
                 )}
-            </ul>
+            </ul> */}
             <hr/>
         </div>
    ) 
