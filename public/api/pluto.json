@@ -1,0 +1,9 @@
+{
+  "satellites": [
+    {"name": "Charon"},
+    {"name": "Styx"},
+    {"name": "Nix"},
+    {"name": "Kerberos"},
+    {"name": "Hydra"}
+  ]
+}
